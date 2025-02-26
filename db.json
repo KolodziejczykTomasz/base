@@ -1,9 +1,274 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "estats": [
+    {
+      "id": "1",
+      "type": "Historyczne",
+      "name": "Muzeum Ziemi Średzkiej Dwór w Koszutach",
+      "city": "Koszuty 27",
+      "district": "średzkiego",
+      "commune": "Środa Wielkopolska",
+      "street": "",
+      "numHouse": "Środa Wielkopolska",
+      "zipcode": "63-000",
+      "province": "wielkopolskie",
+      "createAt": "2024-11-15",
+      "phone": "733 450 733",
+      "email": "muzeum@koszuty.pl",
+      "authorName": "Poznawanie przez Zwiedzanie",
+      "authorUrl": "https://www.facebook.com/groups/728675971270672/user/100066620916935/",
+      "sourceName": "Facebook",
+      "sourceUrl": "",
+      "website": "https://koszuty.pl",
+      "socialFb": "",
+      "slug": "Wizytówką Muzeum Ziemi Średzkiej jest jego siedziba, mieszcząca się w późnobarokowym dworze szlacheckim z trzeciej ćwierci XVIII wieku.",
+      "description": "Dwór w Koszutach zbudowany został z zachowaniem podstawowych cech ustalonych w XVIII wieku. Jest to budynek parterowy, symetryczny, z werandą, narożnymi alkierzami i stromym, mansardowym dachem, krytym gontem, położony w zrekonstruowanym parku krajobrazowym z pierwszej połowy XIX wieku. Ekspozycja stała muzeum pt. „Mała siedziba ziemiańska w Wielkopolsce” prezentowana jest w ośmiu salach, urządzonych w duchu dawnego, polskiego dworu z końca XIX i początku XX wieku. Zgromadzone tu zestawy mebli oraz uzupełniające wystrój malarstwo, tkaniny i przykłady rzemiosła artystycznego – ustawione tak, by swobodnie poruszać się po wnętrzach – pozwalają odtworzyć wygląd i atmosferę szlacheckiego dworu, a pozostawione „mimochodem” drobne sprzęty dają wrażenie stałej obecności jego dawnych mieszkańców.",
+      "urlImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/466146679_923814266515929_5898128760730171506_n.jpg",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.5719400664425!2d17.19526507641402!3d52.23299442198738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4704fbe10c613155%3A0xb948ec201e6a4a6!2sMuzeum%20Ziemi%20%C5%9Aredzkiej%20%22Dw%C3%B3r%20w%20Koszutach%22!5e0!3m2!1spl!2spl!4v1731687757008!5m2!1spl!2spl",
+      "gallery": [
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/466155283_923814633182559_15372049665139117_n.jpg"
+        },
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/466123983_923816663182356_3271100397172810960_n.jpg"
+        },
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/466733306_923816646515691_1061965252878282681_n.jpg"
+        }
+      ],
+      "facilities": [
+        "teren rekreacyjny",
+        "parking"
+      ]
+    },
+    {
+      "id": "2",
+      "type": "Historyczne",
+      "name": "Zamek Królewski Będziński ",
+      "city": "Będzin",
+      "district": "będziński",
+      "commune": "Będzin",
+      "street": " Zamkowa 1",
+      "numHouse": "",
+      "zipcode": " 42-500 Będzin",
+      "province": "śląskie",
+      "createAt": "2024-11-15",
+      "phone": "+48 322 674 731",
+      "email": "muzeum@muzeum.bedzin.pl",
+      "authorName": "Mój Historyczny Blog",
+      "authorUrl": "https://www.facebook.com/MojHistorycznyBlogMHB",
+      "sourceName": "Facebook",
+      "sourceUrl": "https://www.facebook.com",
+      "website": "www.muzeum.bedzin.pl",
+      "socialFb": "",
+      "slug": "",
+      "description": "Będzin leżący w województwie śląskim nad rzeką Czarną Przemszą jest nie tylko ważnym ośrodkiem kulturalnym, gospodarczym i przemysłowym, ale również historycznym. Charakterystycznym miejscem i najważniejszym zabytkiem Będzina jest zamek królewski, który powstał za czasów Kazimierza Wielkiego i odnotowany jest w dokumentach z 1349 roku.",
+      "urlImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/465971655_1073144324824602_2710289281844355867_n.jpg",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2547.1105836461834!2d19.1243741877421!3d50.32718809826146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4716d0bd12662873%3A0xe342633ca16c1a73!2sZamek%20Kr%C3%B3lewski%20w%20B%C4%99dzinie!5e0!3m2!1spl!2spl!4v1731691344049!5m2!1spl!2spl",
+      "gallery": [
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/465987638_1073144034824631_6946609444358283878_n.jpg"
+        },
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/466122791_1073144141491287_3190744637333866878_n.jpg"
+        },
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/466164048_1073144118157956_3100194145141843644_n.jpg"
+        }
+      ],
+      "facilities": []
+    },
+    {
+      "id": "3",
+      "type": "Historyczne",
+      "name": "Ruiny zamku Besiekiery",
+      "city": "Besiekiery",
+      "district": "łęczyckim",
+      "commune": "Grabów",
+      "street": "",
+      "numHouse": "",
+      "zipcode": "99-150 Besiekiery",
+      "province": "łódzkie",
+      "createAt": "2024-11-17",
+      "phone": "",
+      "email": "",
+      "authorName": "EMfotoprojekt",
+      "authorUrl": "https://www.facebook.com/groups/194183971213339/user/100063785047057/",
+      "sourceName": "",
+      "sourceUrl": "",
+      "website": "",
+      "socialFb": "",
+      "slug": "",
+      "description": "Zamek został wzniesiony na przełomie XV i XVI w.  Z miejscowością związanych jest kilka legend i ciekawostek.  Według jednej z legend zamek zbudowal rycerz, który założył się z diabłem Borutą z Łęczycy, która zlokalizowana jest w ok. 30 km od Besiekier, że zbuduje zamek bez korzystania z siekiery.  Zamek zbudował bez użycia siekiery, ale niestety nie wiedział, że przy budowie zamku pracował chłop, który nazywał się Siekiera. Wg innego przekazu nazwa wsi pochodzi od nordyckiego słowa Besiekr, które oznacza człowieka odzianego w skórę niedźwiedzia. Prawdopodobnie osiedlili się w tym miejscu Wikingowie, którzy przemierzali te tereny za czasów Mieszka I.",
+      "urlImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/467270528_1071485851654240_5500846818501838145_n.jpg",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2447.9870116520233!2d18.962432576408762!3d52.152745921967295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471b0c61ce78c62f%3A0xd287e2d21993dee4!2sZamek%20w%20Besiekierach!5e0!3m2!1spl!2spl!4v1731819835173!5m2!1spl!2spl",
+      "gallery": [
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/467341837_1071485914987567_1046012383574584381_n.jpg"
+        },
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/467396059_1071485764987582_3090240229484144112_n.jpg"
+        },
+        {
+          "urlGalleryImage": ""
+        }
+      ],
+      "facilities": []
+    },
+    {
+      "id": "4",
+      "type": "Historyczne",
+      "name": "Pałac Biały Książe Hotel",
+      "city": "Osieka",
+      "district": "bartoszycki",
+      "commune": "Bartoszce",
+      "street": "",
+      "numHouse": "Osieka 3",
+      "zipcode": "11-200 Bartoszyce",
+      "province": "warmińsko-mazurskie",
+      "createAt": "2024-11-17",
+      "phone": "89 762 62 66",
+      "email": "",
+      "authorName": "Jaroslaw Parfianowicz",
+      "authorUrl": "https://www.facebook.com/groups/991456482676380/user/100000075434278/",
+      "sourceName": "www.urloplandia.pl",
+      "sourceUrl": "https://www.urloplandia.pl/o/hotel-bialy-ksiaze-202053",
+      "website": "",
+      "socialFb": "",
+      "slug": "",
+      "description": "To zabytkowy pałac, którego budowę ukończono w 1861r.  Jest to dawny zespół pałacowo-parkowy położony 6km od Bartoszyce, przy trasie Olsztyn-Bezledy (granica państwa).  Odrestaurowany budynek fascynuje niepowtarzalną atmosferą oraz urzeka pięknem architektury.  To szczególne miejsce, które zapewnia odpoczynek w ciszy i spokoju. ",
+      "urlImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/466787677_9144422535570170_3241064180811747048_n.jpg",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2333.2029728398365!2d20.784326976546527!3d54.211895172552886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46e259deb5d12279%3A0x8fa1e121d7f89f14!2zQmlhxYJ5IEtzacSFxbzEmS4gSG90ZWw!5e0!3m2!1spl!2spl!4v1731822113197!5m2!1spl!2spl",
+      "gallery": [
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/466781013_9144423302236760_4236432534053453395_n.jpg"
+        },
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/466665179_9144422818903475_3533166236615754900_n.jpg"
+        },
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/466503593_9144422282236862_5599301312466277169_n.jpg"
+        }
+      ],
+      "facilities": [
+        "parking"
+      ]
+    },
+    {
+      "id": "5",
+      "type": "Kulturowe",
+      "name": "Sanktuarium Maryjne w Krośnie k. Ornety",
+      "city": "Krosno",
+      "district": "lidzbarski",
+      "commune": "Orneta",
+      "street": "",
+      "numHouse": "",
+      "zipcode": "11-130 Orneta",
+      "province": "warmińsko-mazurskie",
+      "createAt": "2024-11-17",
+      "phone": "55 242 28 84 | 690-949-031",
+      "email": "nmp@sanktuariumkrosno.pl",
+      "authorName": "Ela Naruszewicz",
+      "authorUrl": "",
+      "sourceName": "",
+      "sourceUrl": "",
+      "website": "www.sanktuariumkrosno.pl",
+      "socialFb": "",
+      "slug": "Krosno koło Ornety",
+      "description": "Krosno, które stało się głośne z powodu znalezienia przez dzieci, bawiące się nad Drwęcą Warmińską, figurki Matki Boskiej.W 1593 r. Jakub Bartz, syn burmistrza z Braniewa odnawia starą kapliczkę. 8 września 1720 r Biskup Teodor Potocki dokonał konsekracji późnobarokowego kościoła.",
+      "urlImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/466781682_3587969901494896_2109762956373342429_n.jpg",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2337.7518601530205!2d20.16877707654106!3d54.1313248725273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46e294a5f26c23df%3A0xb0bd302c93066a60!2sSanktuarium%20Nawiedzenia%20NMP%20w%20Kro%C5%9Bnie!5e0!3m2!1spl!2spl!4v1731828529943!5m2!1spl!2splc",
+      "gallery": [
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/466432186_3587969928161560_5267629131714207768_n.jpg"
+        },
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/466782595_3587970401494846_8901690715659875948_n.jpg"
+        },
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/466838728_3587970148161538_3701520283552812804_n.jpg"
+        }
+      ],
+      "facilities": [
+        "parking",
+        "teren rekreacyjny"
+      ]
+    },
+    {
+      "id": "6",
+      "type": "Historyczne",
+      "name": "Muzeum Pałac w Rogalinie",
+      "city": "Rogalin",
+      "district": "poznańskim",
+      "commune": "Mosina",
+      "street": "Arciszewskiego 2",
+      "numHouse": "",
+      "zipcode": "62-022 Rogalin",
+      "province": "wielkopolskie",
+      "createAt": "2024-11-21",
+      "phone": "61 813 88 00",
+      "email": "",
+      "authorName": "",
+      "authorUrl": "",
+      "sourceName": "Małe Wielkie Zwiedzanie",
+      "sourceUrl": "https://www.facebook.com/groups/554194364767568/user/61558716615639/",
+      "website": "",
+      "socialFb": "",
+      "slug": "",
+      "description": "Kompleks pałacowo-parkowy powstał w XVIII wieku z inicjatywy zamożnego szlachcica i pisarza wielkiego koronnego - Kazimierza Raczyńskiego.  Pałac w Rogalinie utrzymany jest w typie barokowym, ale nie brakuje tu także elementów rokokowych i wczesnoklasycystycznych. Od początku ta wyjątkowa rezydencja była ważnym centrum życia towarzyskiego, kulturalnego i politycznego. Spacerując po pałacowych komnatach zobaczycie sypialnie dawnych właścicieli, reprezentacyjną salę balową, galerię antenatów, oraz robiącą ogromne wrażenie XIX-wieczną bibliotekę, która powstała na podstawie projektu młodego architekta z Krakowa Zygmunta Hendla. We wnętrzach pałacu znajdziecie antyki, portrety członków rodziny Raczyńskich, przedmioty codziennego użytku, zastawy, czy pięknie zdobione piece kaflowe. Pobyt w rezydencji, to także podróż przez różne epoki. Można tu zobaczyć sprzęty i porcelanę z początku XIX wieku oraz bardziej współczesne przedmioty.  Warto zwiedzić również Gabinet londyński, będący rekonstrukcją pokoju z oryginalnym wyposażeniem z londyńskiego mieszkania Edwarda Bernarda Raczyńskiego, Powozownię, w której obejrzeć można m.in. pojazdy konne, a także akcesoria podróżne z przełomu XIX i XX wieku. Koniecznie wybierzcie się również do galerii obrazów Edwarda Aleksandra z 1910 r., która zawiera 300 dzieł sztuki, z największym obrazem Jana Matejki \"Dziewicą Orleańską\". Są tu również płótna Jacka Malczewskiego, Juliana Fałata, Olgi Boznańskiej, czy Edwarda Wyczółkowskiego, a także dzieła artystów zagranicznych. Niestety tym razem nie udało mi się zwiedzić tej wyjątkowej wystawy, ale zamierzam nadrobić zaległości😊 Rogalin to także wspaniały ogród rokokowy z kopcem widokowym i rzeźbami mitologicznych bóstw oraz malowniczy Park Krajobrazowy ze skupiskiem wielowiekowych dębów.  Na wspólny spacer po Łęgach Rogalińskich i przypałacowym ogrodzie zaproszę Was w kolejnej relacji😊",
+      "urlImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/467677823_122147575694290553_762087991300868012_n.jpg",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.4837999976126!2d16.927206176414067!3d52.234595571987725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4704524614ac6e89%3A0x80bb921edb1f57b7!2sMuzeum%20Pa%C5%82ac%20w%20Rogalinie.%20Oddzia%C5%82%20Muzeum%20Narodowego%20w%20Poznaniu!5e0!3m2!1spl!2spl!4v1732210601257!5m2!1spl!2spl",
+      "gallery": [
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/467509633_122147572922290553_4218634279440451271_n.jpg"
+        },
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/467467707_122147575208290553_3352268582838780988_n.jpg"
+        },
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/467439063_122147575712290553_7208179212496068699_n.jpg"
+        }
+      ],
+      "facilities": [
+        "parking",
+        "teren rekreacyjny"
+      ]
+    },
+    {
+      "id": "7",
+      "type": "Militarny",
+      "name": "Zamek Grodno",
+      "city": " Zagórze Śląskie",
+      "district": "wałbrzyski",
+      "commune": "Walim",
+      "street": "",
+      "numHouse": "",
+      "zipcode": " 58-321 Zagórze Śląskie",
+      "province": "śląskie",
+      "createAt": "2024-11-23",
+      "phone": "",
+      "email": "",
+      "authorName": "drogajestcelem.com",
+      "authorUrl": "https://www.drogajestcelem.com",
+      "sourceName": "drogajestcelem.com",
+      "sourceUrl": "https://www.drogajestcelem.com",
+      "website": "",
+      "socialFb": "",
+      "slug": "Zamek ma bogatą historię sięgającą średniowiecza. Jego budowę rozpoczęto w XIII wieku, kiedy to został wzniesiony jako obronna twierdza prawdopodobnie przez księcia Bolka I. W XIV wieku warownia przeszła pod władanie Korony Czeskiej. W XV w. był w posiadaniu rodzin rycerskich, które podczas wojen husyckich zajmowały się rozbojem. W ciągu kolejnych wieków Grodno było świadkiem licznych konfliktów, w tym wojny trzydziestoletniej, które miały wpływ na jego losy. ",
+      "description": "Zamek Grodno, zbudowany na szczycie wzgórza w Sudetach, to miejsce pełne historii, które zachęca do odkrywania. Mury, choć nieco zniszczone przez czas, wciąż świadczą o swojej potędze. Każdy krok po dziedzińcu przypomina o dawnej świetności tego miejsca, które niegdyś broniło granic królestwa.",
+      "urlImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/464600189_1093044692826079_1613954619314997329_n.jpg",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2524.3913488900635!2d16.408270776316936!3d50.74977677165089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470e4e17919171a5%3A0x38cb244c6f7eac05!2sWzg%C3%B3rze%20zamkowe!5e0!3m2!1spl!2spl!4v1732342448590!5m2!1spl!2spl",
+      "gallery": [
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/464574859_1093044699492745_9131737360963754818_n.jpg"
+        },
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/464578024_1093044689492746_444124980833888434_n.jpg"
+        },
+        {
+          "urlGalleryImage": "https://srv43032.seohost.com.pl/wp-content/uploads/2024/11/464707405_1093044682826080_5582052044318876411_n.jpg"
+        }
+      ],
+      "facilities": []
+    }
+  ]
 }
